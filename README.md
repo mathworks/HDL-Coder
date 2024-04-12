@@ -1,2 +1,2 @@
-# HDLCoder
-HDL Coder Examples
+# HDL Coder
+HDL Coder Examples for AMD/Xilinx, Intel/Altera, Microchip/Microsemi
