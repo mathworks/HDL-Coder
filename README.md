@@ -10,7 +10,7 @@ Targets: AMD/Xilinx, Intel/Altera, Microchip/Microsemi
 
 **Related Links:**
 
-* https://www.mathworks.com/products/hdl-coder.html
-* https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial?tab=readme-ov-file
-* https://www.mathworks.com/matlabcentral/fileexchange/50098-hdlcoder-design-patterns-and-examples
+* [HDL Coder Product Page](https://www.mathworks.com/products/hdl-coder.html)
+* [HDL Coder Self Guided Tutorials (Simulink to HDL)](https://github.com/mathworks/HDL-Coder-Self-Guided-Tutorial)
+* [HDL Coder Self Guided Tutorials (MATLAB to HDL)](https://www.mathworks.com/matlabcentral/fileexchange/50098-hdlcoder-design-patterns-and-examples)
 
