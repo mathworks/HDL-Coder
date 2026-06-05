@@ -3,7 +3,7 @@ HDL Coder Examples
 
 Modeling Languages: MATLAB, Simulink, Stateflow, Simscape, Deep Learning
 
-Targets: AMD/Xilinx, Intel/Altera, Microchip/Microsemi
+Targets: AMD/Xilinx, Intel/Altera, Microchip/Microsemi or ASIC
 
 ![alt HDL Coder](assets/HDL_Coder.png)
 
